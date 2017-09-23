@@ -4,7 +4,7 @@
 
 ### Files
 `investigate_dataset.ipynb` -  Jupyter notebook of the project   
-`investigate_dataset.html` -  HTML version of the Jupyter notebook
+`investigate_dataset.html` -  HTML version of the Jupyter notebook  
 `titanic-data.csv` - Data to be used for analysis
 
 ### Introduction

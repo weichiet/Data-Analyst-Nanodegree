@@ -7,5 +7,5 @@ Use descriptive statistics and a statistical test to analyze the Stroop effect, 
 
 ### Files
 `Test_a_Perceptual_Phenomenon.ipynb` -  Jupyter notebook of the project   
-`Test_a_Perceptual_Phenomenon.html` -  HTML version of the Jupyter notebook
+`Test_a_Perceptual_Phenomenon.html` -  HTML version of the Jupyter notebook  
 `stroopdata.csv` - Data to be used for conducting hypothesis test.

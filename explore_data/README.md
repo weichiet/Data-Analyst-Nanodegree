@@ -4,7 +4,7 @@
 
 ### Files
 `Red_Wine_Quality_Analysis.RMD` -  RMD file of the project   
-`Red_Wine_Quality_Analysis.html` -  Knitted RMD file
+`Red_Wine_Quality_Analysis.html` -  Knitted RMD file  
 `wineQualityReds.csv` - Data to be used for analysis
 
 ### Introduction
