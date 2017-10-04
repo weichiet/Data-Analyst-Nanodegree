@@ -3,7 +3,7 @@
 
 ## Summary
 
-Hundreds of thousands of U.S. passengers take domestic flights to fly across the country every day. Many of them have had a bad experience with an airline, which is a common problem in commercial air travel industry. The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. The visualization I created is based on 2015 flight delays data provided by DOT and available on [Kaggle](https://www.kaggle.com/usdot/flight-delays). The Tableau story attempts to provide the audience the answers of the following questions?  
+Hundreds of thousands of U.S. passengers take domestic flights to fly across the country every day. Many of them have had a bad experience with an airline, which is a common problem in commercial air travel industry. The U.S. Department of Transportation's (DOT) Bureau of Transportation Statistics tracks the on-time performance of domestic flights operated by large air carriers. The visualization I created is based on 2015 flight delays data provided by DOT and available on [Kaggle](https://www.kaggle.com/usdot/flight-delays). The Tableau story attempts to provide the audience the answers of the following questions:  
 1. Which airlines is most punctual?
 2. Which airport are the busiest and what are their average flight delay time?
 3. What are the average departure and arrival delays of a given route?
