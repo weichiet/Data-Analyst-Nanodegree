@@ -1,14 +1,15 @@
-
 # Data Analyst Nanodegree
-## [Wrangle OpenStreetMap Data](./project_description.md)
+# Data Wrangling
+## Wrangle OpenStreetMap Data
 
-The map that I’ve chosen for this project is Central Singapore, which can also be downloaded from [here](https://mapzen.com/data/metro-extracts/your-extracts/b64f3acb79eb).
+### [Project Description](./project_description.md)
 
 ### Code
-I chose to use MongoDB for this project.
+
+The map that I’ve chosen for this project is Central Singapore, which can also be downloaded from [here](https://mapzen.com/data/metro-extracts/your-extracts/b64f3acb79eb). MongoDB was used as database for this project.
 
 The `project_report.ipynb` notebook documents the data wrangling process and the analysis of the OSM map using MongoDB.   
-The HTML version of the report is saved as `project_report.html`
+The HTML version of the report was saved as `project_report.html`
 
 The following Python files are also included:  
 1) `create_sample.py`: Creating a sample of elements from the original OSM.  
