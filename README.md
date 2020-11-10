@@ -3,6 +3,9 @@
 ## Program Description
 This [program](https://www.udacity.com/course/data-analyst-nanodegree--nd002) will prepare you for a data science career. Learn to use Python, R, SQL, and Tableau to uncover insights, communicate critical findings, and create data-driven solutions.
 
+[Graduation Certificate](https://confirm.udacity.com/LQG6T4CX)
+<img src="./images/certificate.svg">
+
 ## Projects
 1. [Investigate a Dataset](./investigate_dataset)  
 Posed a question about a dataset, then used NumPy and Pandas to answer that question based on the data and created a report to share the results.
